@@ -22,3 +22,9 @@ I am studying computer science at the University of the West Indies<br>Currently
 [![](https://visitcount.itsvg.in/api?id=0xNick404&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xNick404/0xNick404/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xNick404/0xNick404/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/0xNick404/0xNick404/github-snake.svg" />
+</picture>
