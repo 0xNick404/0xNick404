@@ -1,5 +1,5 @@
 # 👋 Hello World!:
-- 🎓 Final-year Computer Science student passionate about **Cybersecurity**, **Networking**, and **Cloud Computing**
+- 🎓 Final-year Computer Science student passionate about **Cybersecurity**, **Networking** and **Cloud Computing**
 - 🔭 I'm currently working on my portfolio website and homelab
 - 🌱 I'm currently learning about **SIEMs**, **Azure Cloud services** and strengthening my **Networking fundamentals**.
 - ⚡Fun fact: I love PC building and experimenting with self-hosted services
